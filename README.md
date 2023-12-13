@@ -17,7 +17,7 @@ edx上的python课程学习记录。
     缩进四个空格或者tab 
 >
 ### lesson2 conditionals 
-- 链接方式[连接的名称]（括号内的链接的网址）
+**链接方式[连接的名称]（括号内的链接的网址）**
 [lesson2](https://github.com/alanwang123/pythonLearn/tree/main/lesson2%20conditionals)
 
 - 代码grade.py 描述不同分数的判断输出
