@@ -20,7 +20,7 @@ def is_even2(n):
 
 #定义奇偶判断的函数方式三
 def is_even3(n):
-    return ( n % 2 == 0)
+    return n % 2 == 0
 
     
 #执行主函数
