@@ -17,7 +17,7 @@ edx上的python课程学习记录。
     缩进四个空格或者tab 
 >
 ### lesson2 conditionals 
-'https://github.com/alanwang123/pythonLearn/tree/main/lesson2%20conditionals'
+'[lesson2](https://github.com/alanwang123/pythonLearn/tree/main/lesson2%20conditionals)'
 
 - 代码grade.py 描述不同分数的判断输出
 - 代码parity.py 奇偶判断函数
