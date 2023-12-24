@@ -22,10 +22,18 @@ edx上的python课程学习记录。
 
 - 代码grade.py 描述不同分数的判断输出
 - 代码parity.py 奇偶判断函数
-
 **match**用法 参照代码house.py
 #match case 相当于Java中的switch case 用 “｜ ”符号表示或者的意思
 
+### lesson3 loops 
+
+- while循环
+、、、
+i = 3
+while i != 0:
+    print("meow")
+    i = i-1
+、、、
 
 
 
