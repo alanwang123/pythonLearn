@@ -28,12 +28,49 @@ edx上的python课程学习记录。
 ### lesson3 loops 
 
 - while循环
-、、、
+```python
 i = 3
 while i != 0:
     print("meow")
     i = i-1
-、、、
+```
 
+- for循环
+```python
+# range代表一定的范围内
+for i in range(3):
+    print("meow")
+```
+
+-while循环，break 退出
+```python
+while True:
+    n = int(input("what's n?"))
+    if n > 0:
+        break
+
+for _ in range(n):
+    print("meow")
+```
+
+- 通过主函数实现循环
+```python
+def main():
+    number = get_nember()
+    meow(number)
+
+
+def meow(n):
+    for _ in range(n):
+        print("meow")
+        
+def get_nember():
+    while True:
+            n = int(input("what's n?"))
+            if n > 0:
+                 break
+    return n
+main()
+```
 
 
