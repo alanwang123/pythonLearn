@@ -75,8 +75,10 @@ main()
 
 - 数组循环打印
 ```python
+#不需要提前声明变量s,直接在循环中使用即可。
 students = ["alan","peter","lucy"]
 for s in students:
     print(s)
 ```
+
 
