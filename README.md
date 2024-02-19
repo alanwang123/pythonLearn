@@ -73,4 +73,10 @@ def get_nember():
 main()
 ```
 
+- 数组循环打印
+```python
+students = ["alan","peter","lucy"]
+for s in students:
+    print(s)
+```
 
